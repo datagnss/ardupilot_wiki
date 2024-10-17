@@ -28,3 +28,7 @@ The 1.25mm pitch 6P connector :
    -  6: 5V
 
 Please note that the board only includes RTK.
+
+.. image:: ../../../images/datagnss-gem1305-01.png
+    :target: ../_images/datagnss-gem1305-01.png
+    :width: 450px：
