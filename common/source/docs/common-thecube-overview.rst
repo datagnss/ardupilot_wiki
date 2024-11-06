@@ -63,8 +63,8 @@ The Cube connector pin assignments
 ==================================
 This section details the pin assignments of the standard carrier board of The Cube. There are other types of carrier boards available, please refer to the manufacturer pages for pinouts of specific carrier board.
 
-.. image:: ../../../images/thecube/pixhawk2-pinout.jpg
-    :target: ../_images/pixhawk2-pinout.jpg
+.. image:: ../../../images/thecube/pixhawk2-pinout.png
+    :target: ../_images/pixhawk2-pinout.png
     :width: 240px
 
 **TELEM1, TELEM2 ports**
@@ -467,7 +467,7 @@ For more information and instructions on setting up and using the Cubepilot syst
 
 For technical help and support on the cubepilot system see  `Cubepilot Forum  <https://discuss.cubepilot.org/>`__
 
-Company information on Cubpilot can be found at  `www.proficnc.com  <http://www.proficnc.com>`__
+Company information on Cubpilot can be found at  `CubePilot <https://www.cubepilot.org>`__
 
 
 Carrier Board Design
@@ -478,7 +478,7 @@ The reference design files of the standard carrier board are available in `githu
 Where to Buy
 ============
 
-Official retailers are listed `here  <http://www.proficnc.com/stores>`__.
+Official retailers are listed `here  <https://www.cubepilot.org/#/reseller/list>`__.
 
 
 More Images

@@ -4,8 +4,8 @@
 ROS 2
 =====
 
-.. image:: ../images/logos/ros2_logo.jpg
-    :target: ../_images/logos/ros2_logo.jpg
+.. image:: ../images/logos/ros2_logo.png
+    :target: ../_images/logos/ros2_logo.png
 
 ArduPilot capabilities can be extended with `ROS <http://www.ros.org/>`__ (aka Robot Operating System).
 
@@ -53,7 +53,7 @@ Now update all dependencies:
     sudo apt update
     rosdep update
     source /opt/ros/humble/setup.bash
-    rosdep install --from-paths src --ignore-src
+    rosdep install --from-paths src --ignore-src -r -y
 
 Installing the `MicroXRCEDDSGen` build dependency:
 
